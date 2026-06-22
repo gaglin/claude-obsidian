@@ -25,6 +25,25 @@ Parse recent entries: `grep "^## \[" wiki/log.md | head -10`
 
 ---
 
+## [2026-06-22] autoresearch | ChatGPT as planner OpenCode as executor
+- Rounds: 2
+- Sources found: 7
+- Pages created: [[Planner-Executor Workflow Pattern]], [[OpenCode Plan Manager]], [[planning-execution-separation-source]], [[dual-llm-game-build-source]]
+- Pages updated: [[AI Game Dev Pipeline]], [[index]]
+- Synthesis: [[Research: ChatGPT as planner OpenCode as executor]]
+- Key finding: A mature multi-model pattern exists — ChatGPT/Opus/GPT-5.5 plans (GDD, architecture, specs), OpenCode Build agent/Sonnet executes, independent reviewer gates quality. OCGS already implements tiered model assignment per this pattern. Cost reduced ~5x by routing reasoning tokens to planning only.
+
+---
+
+## [2026-06-22] autoresearch | game development with opencode
+- Rounds: 2
+- Sources found: 5
+- Pages created: [[OpenCode Game Studios]], [[AI Game Dev Pipeline]], [[OpenCode]], [[opencode-game-studios-source]], [[opencode-game-studios-striderZA-source]], [[game-creator-source]], [[opencode-official-docs-source]], [[local-ai-game-build-source]]
+- Synthesis: [[Research: game development with opencode]]
+- Key finding: OpenCode's agent architecture enables a structured "game studio in a config" pattern — 54 specialized agents, 37 skills, free on Big Pickle — analogous to what this vault provides for knowledge management.
+
+---
+
 ## [2026-04-24] save | v1.6.0 public release notes (Teams, Karpathy-style)
 - Type: release doc + visual assets
 - Locations (new): `docs/releases/v1.6.0.md` (346 lines, 6 sections, Karpathy-style prose), `wiki/meta/dragonscale-mechanism-overview.svg` (4-mechanism diagram with shared .vault-meta/ gate), `wiki/meta/dragonscale-6-test-flow.svg` (validation timeline), `wiki/meta/dragonscale-frontier-graph.svg` (M4 candidate + 3 filed pages)

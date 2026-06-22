@@ -13,30 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "wiki/questions/Research: ChatGPT as planner OpenCode as executor.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
-            }
-          },
-          {
-            "id": "350e0a9a2bc01705",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "README"
+              "title": "Research: ChatGPT as planner OpenCode as executor"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -206,19 +191,42 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "350e0a9a2bc01705",
+  "active": "a31de1b302cdc5cf",
   "lastOpenFiles": [
-    "AGENTS.md",
-    "CLAUDE.md",
+    "wiki/sources/local-ai-game-build-source.md",
+    "wiki/questions/Research: ChatGPT as planner OpenCode as executor.md",
+    "wiki/concepts/AI Game Dev Pipeline.md",
+    "wiki/entities/OpenCode Plan Manager.md",
+    "wiki/questions/Research: game development with opencode.md",
+    "wiki/concepts/planner executor workflow pattern.md",
+    "wiki/sources/dual-llm-game-build-source.md",
+    "wiki/sources/planning-execution-separation-source.md",
+    "WIKI.md",
+    "wiki/entities/OpenCode.md",
+    "wiki/concepts/OpenCode Game Studios.md",
+    "wiki/canvases/claude-obsidian-presentation.canvas",
+    "wiki/canvases/welcome.canvas",
+    "wiki/canvases/main.canvas",
+    "wiki/overview.md",
+    "wiki/Wiki Map.canvas",
+    "wiki/hot.md",
+    "wiki/references/methodology-modes.md",
+    "wiki/canvases/youtube-explainer.canvas",
+    "wiki/sources/_index.md",
+    "wiki/sources/opencode-official-docs-source.md",
+    "wiki/sources/opencode-game-studios-striderZA-source.md",
+    "wiki/sources/opencode-game-studios-source.md",
+    "wiki/sources/game-creator-source.md",
+    "wiki/questions/How does the LLM Wiki pattern work.md",
     "SECURITY.md",
-    "Untitled.base",
-    "CHANGELOG.md",
-    "agents/verifier.md",
-    "wiki/index.md",
-    "wiki/getting-started.md",
-    "README.md",
-    "skills/think/SKILL.md",
+    "Untitled.canvas",
+    "Untitled 1.canvas",
+    "skills/autoresearch/references/program.md",
     "skills/autoresearch/SKILL.md",
+    "wiki/concepts/_index.md",
+    "AGENTS.md",
+    "wiki/concepts/DragonScale Memory.md",
+    "Untitled.base",
     "Untitled"
   ]
 }

@@ -23,7 +23,7 @@ related:
 
 # Wiki Index
 
-Last updated: 2026-04-15 | Total pages: 34 | Sources ingested: 2
+Last updated: 2026-06-22 | Total pages: 47 | Sources ingested: 9
 
 Navigation: [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[Wiki Map]] | [[getting-started]]
 
@@ -44,6 +44,9 @@ Navigation: [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[Wiki Map]] | [[
 - [[Persistent Wiki Artifact]]: durable Markdown page as the LLM's memory object, distinct from ephemeral chat turns (status: developing)
 - [[Source-First Synthesis]]: provenance discipline; raw sources stay immutable while the wiki layer is synthesized and cited (status: developing)
 - [[Query-Time Retrieval]]: wiki query path synthesizes with citations; complementary to Obsidian's in-vault search (status: developing)
+- [[OpenCode Game Studios]] — studio-in-a-config pattern: 54 specialized agents, 37 workflow skills, 100% free on Big Pickle (status: developing)
+- [[AI Game Dev Pipeline]] — structured approach to building games with AI coding agents: phases, quality gates, role-based delegation (status: developing)
+- [[Planner-Executor Workflow Pattern]] — multi-model pattern: ChatGPT/Opus plans, OpenCode/Sonnet executes, independent reviewer gates (status: developing)
 
 ---
 
@@ -57,18 +60,29 @@ Navigation: [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[Wiki Map]] | [[
 - [[kepano-obsidian-skills]] — official skills from Obsidian creator; defuddle, obsidian-bases (status: current)
 - [[Claudian-YishenTu]] — native Obsidian plugin embedding Claude Code; plan mode, @mention (status: current)
 - [[Claude SEO]] — Tier 4 Claude Code skill for SEO analysis; 23 skills, 17 agents, 30 scripts at v1.9.0 (status: evergreen)
+- [[OpenCode]] — open source AI coding agent; 160K+ GitHub stars, 7.5M monthly devs; agent-based architecture suited for game dev (status: developing)
+- [[OpenCode Plan Manager]] — OpenCode plugin implementing Planner->Builder pattern with Zod-validated schemas and filesystem Kanban (status: developing)
 
 ---
 
 ## Sources
 
 - [[claude-obsidian-ecosystem-research]] — 2026-04-08 | web research across 16+ repos | 8 wiki pages created
+- [[opencode-game-studios-source]] — 2026-03-26 | OpenCode Game Studios config pack by TraftG
+- [[opencode-game-studios-striderZA-source]] — 2026-04-29 | Modular OCGS fork with Pong demo
+- [[game-creator-source]] — 2026-01-28 | Automated browser game pipeline by PlayableIntelligence
+- [[opencode-official-docs-source]] — 2026 | OpenCode agents documentation
+- [[local-ai-game-build-source]] — 2026-04-09 | Building games with OpenCode + local LLMs
+- [[planning-execution-separation-source]] — 2026-06-02 | ChatGPT planning + OpenCode execution workflow
+- [[dual-llm-game-build-source]] — 2026-05-22 | ChatGPT draft + Claude review dual-LLM game build
 
 ---
 
 ## Questions
 
 - [[How does the LLM Wiki pattern work]] — how the pattern works and why it outperforms RAG at human scale (status: developing)
+- [[Research: game development with opencode]] — synthesis: game dev ecosystem built on OpenCode's agent architecture (status: developing)
+- [[Research: ChatGPT as planner OpenCode as executor]] — synthesis: ChatGPT-as-planner + OpenCode-as-executor workflow pattern for game studios (status: developing)
 
 ---
 
