@@ -268,6 +268,12 @@ Open questions filed: N
 
 ---
 
+## Gotchas
+
+Always output the wiki/questions/Research: [Topic].md (synthesis), do not makes up with concepts or entities.
+
+------
+
 ## Constraints
 
 Follow the limits in `references/program.md`:
