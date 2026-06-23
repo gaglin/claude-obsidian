@@ -47,6 +47,8 @@ Navigation: [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[Wiki Map]] | [[
 - [[OpenCode Game Studios]] — studio-in-a-config pattern: 54 specialized agents, 37 workflow skills, 100% free on Big Pickle (status: developing)
 - [[AI Game Dev Pipeline]] — structured approach to building games with AI coding agents: phases, quality gates, role-based delegation (status: developing)
 - [[Planner-Executor Workflow Pattern]] — multi-model pattern: ChatGPT/Opus plans, OpenCode/Sonnet executes, independent reviewer gates (status: developing)
+- [[Agent Skills Ecosystem]] — cross-platform Agent Skills standard that makes OCGS and claude-obsidian interoperable; shared spec from kepano/obsidian-skills (36K+ stars) (status: developing)
+- [[opencode-game-studio and claude-obsidian]] — synthesis: how OCGS and claude-obsidian relate architecturally; shared platform, no direct integration, complementary workflows (status: developing)
 
 ---
 
@@ -75,6 +77,7 @@ Navigation: [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[Wiki Map]] | [[
 - [[local-ai-game-build-source]] — 2026-04-09 | Building games with OpenCode + local LLMs
 - [[planning-execution-separation-source]] — 2026-06-02 | ChatGPT planning + OpenCode execution workflow
 - [[dual-llm-game-build-source]] — 2026-05-22 | ChatGPT draft + Claude review dual-LLM game build
+- [[opencode-game-studio and claude-obsidian]] — 2026-06-23 | synthesis: intersectional research
 
 ---
 

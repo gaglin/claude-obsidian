@@ -15,6 +15,8 @@ related:
   - "[[opencode-game-studios-source]]"
   - "[[opencode-official-docs-source]]"
   - "[[local-ai-game-build-source]]"
+  - "[[opencode-game-studio and claude-obsidian]]"
+  - "[[Agent Skills Ecosystem]]"
 ---
 
 # OpenCode

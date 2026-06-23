@@ -13,6 +13,8 @@ related:
   - "[[OpenCode]]"
   - "[[AI Game Dev Pipeline]]"
   - "[[opencode-game-studios-source]]"
+  - "[[opencode-game-studio and claude-obsidian]]"
+  - "[[Agent Skills Ecosystem]]"
 ---
 
 # OpenCode Game Studios
@@ -38,6 +40,10 @@ Every task follows: Question → Options → Decision → Draft → Approval. Ag
 ## Ecosystem
 
 Multiple community forks exist: TraftG (original), oshinono, striderZA (modular with demo game), Diegiwg (with model assignment strategy), Accelerator-mzq, Kazmallar.
+
+## Relationship to claude-obsidian
+
+Both OCGS and claude-obsidian implement the Agent Skills specification, making them interoperable. OCGS provides game development agents; claude-obsidian provides knowledge management skills. They can coexist in the same OpenCode session — OCGS agents build games while claude-obsidian vault skills document the process. Shared dependency on the Superpowers plugin further connects the ecosystems. (Source: [[opencode-game-studio and claude-obsidian]])
 
 ## Key Limitation
 

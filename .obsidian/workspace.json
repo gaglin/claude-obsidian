@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/comparisons/claude-obsidian-ecosystem.md",
+                "file": "wiki/sources/opencode-game-studios-source.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "claude-obsidian-ecosystem"
+              "title": "opencode-game-studios-source"
             }
           }
         ]
@@ -193,17 +193,22 @@
   },
   "active": "a31de1b302cdc5cf",
   "lastOpenFiles": [
+    "wiki/concepts/Agent Skills Ecosystem.md",
+    "wiki/concepts/opencode-game-studio and claude-obsidian.md",
+    "wiki/questions/Research: game development with opencode.md",
+    "wiki/questions/Research: ChatGPT as planner OpenCode as executor.md",
+    "CLAUDE.md",
+    "AGENTS.md",
+    "wiki/folds/fold-k3-from-2026-04-23-to-2026-04-24-n8.md",
+    "wiki/comparisons/claude-obsidian-ecosystem.md",
     "wiki/comparisons/Wiki vs RAG.md",
     "wiki/canvases/claude-obsidian-presentation.canvas",
     "hooks/README.md",
-    "wiki/comparisons/claude-obsidian-ecosystem.md",
     "wiki/Wiki Map.canvas",
     "wiki/log.md",
-    "wiki/questions/Research: ChatGPT as planner OpenCode as executor.md",
     "wiki/sources/local-ai-game-build-source.md",
     "wiki/concepts/AI Game Dev Pipeline.md",
     "wiki/entities/OpenCode Plan Manager.md",
-    "wiki/questions/Research: game development with opencode.md",
     "wiki/concepts/planner executor workflow pattern.md",
     "wiki/sources/dual-llm-game-build-source.md",
     "wiki/sources/planning-execution-separation-source.md",
@@ -219,10 +224,6 @@
     "wiki/sources/_index.md",
     "wiki/sources/opencode-official-docs-source.md",
     "wiki/sources/opencode-game-studios-striderZA-source.md",
-    "wiki/sources/opencode-game-studios-source.md",
-    "wiki/sources/game-creator-source.md",
-    "wiki/questions/How does the LLM Wiki pattern work.md",
-    "SECURITY.md",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "Untitled.base",

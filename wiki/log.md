@@ -25,6 +25,16 @@ Parse recent entries: `grep "^## \[" wiki/log.md | head -10`
 
 ---
 
+## [2026-06-23] autoresearch | opencode-game-studio and claude-obsidian
+- Rounds: 2
+- Sources found: 3 (plus 4 existing)
+- Pages created: [[opencode-game-studio and claude-obsidian]], [[Agent Skills Ecosystem]]
+- Pages updated: [[OpenCode Game Studios]], [[OpenCode]], [[index]]
+- Synthesis: [[opencode-game-studio and claude-obsidian]]
+- Key finding: OCGS and claude-obsidian are independent with no direct integration, but share deep architectural kinship — both implement the Agent Skills spec, run on OpenCode, and can coexist in complementary workflows (OCGS builds games, claude-obsidian documents them). Superpowers plugin is the strongest existing connective tissue.
+
+---
+
 ## [2026-06-22] autoresearch | ChatGPT as planner OpenCode as executor
 - Rounds: 2
 - Sources found: 7
