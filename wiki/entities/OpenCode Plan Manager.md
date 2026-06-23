@@ -11,7 +11,7 @@ tags:
 status: developing
 related:
   - "[[OpenCode]]"
-  - "[[Planner-Executor Workflow Pattern]]"
+  - "[[wiki/concepts/planner executor workflow pattern|Planner-Executor Workflow Pattern]]"
   - "[[OpenCode Game Studios]]"
 ---
 

@@ -59,7 +59,7 @@ opencode-game-studio (OCGS) and claude-obsidian are independent projects with no
 ## Key Concepts
 
 - [[Agent Skills Ecosystem]]: Cross-platform standard for AI agent skill files; OCGS and claude-obsidian both implement it
-- [[Planner-Executor Workflow Pattern]]: Related pattern complementing both — ChatGPT plans, OpenCode executes, vault documents
+- [[wiki/concepts/planner executor workflow pattern|Planner-Executor Workflow Pattern]]: Related pattern complementing both — ChatGPT plans, OpenCode executes, vault documents
 
 ## How They Could Work Together
 

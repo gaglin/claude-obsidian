@@ -13,7 +13,7 @@ status: developing
 rounds: 2
 sources_found: 7
 related:
-  - "[[Planner-Executor Workflow Pattern]]"
+  - "[[wiki/concepts/planner executor workflow pattern|Planner-Executor Workflow Pattern]]"
   - "[[OpenCode Game Studios]]"
   - "[[AI Game Dev Pipeline]]"
   - "[[OpenCode Plan Manager]]"
@@ -55,7 +55,7 @@ There is a well-established and rapidly maturing pattern of using ChatGPT (or ot
 
 ## Key Concepts
 
-- [[Planner-Executor Workflow Pattern]]: Separating planning/architecture from execution across different models or agents
+- [[wiki/concepts/planner executor workflow pattern|Planner-Executor Workflow Pattern]]: Separating planning/architecture from execution across different models or agents
 - [[OpenCode Game Studios]]: 54-agent studio hierarchy with tiered model assignment strategy
 - [[AI Game Dev Pipeline]]: Phased pipeline with plan gates, now incorporating planner-executor split
 

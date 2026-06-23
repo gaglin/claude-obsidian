@@ -13,7 +13,7 @@ key_claims:
   - Battle-tested boilerplates with conventions, rules, and AI guidance docs reduce drift
   - AI coding quality is limited by process, not model capability
 related:
-  - "[[Planner-Executor Workflow Pattern]]"
+  - "[[wiki/concepts/planner executor workflow pattern|Planner-Executor Workflow Pattern]]"
   - "[[OpenCode]]"
   - "[[AI Game Dev Pipeline]]"
 ---

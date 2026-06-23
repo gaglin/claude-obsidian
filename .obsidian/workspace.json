@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/concepts/OpenCode Game Studios.md",
+                "file": "wiki/concepts/planner executor workflow pattern.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "OpenCode Game Studios"
+              "title": "planner executor workflow pattern"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Planner-Executor Workflow Pattern",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "wiki/concepts/planner executor workflow pattern.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for planner executor workflow pattern"
             }
           },
           {
@@ -191,13 +192,27 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "5565f1231fe95c42",
+  "active": "a31de1b302cdc5cf",
   "lastOpenFiles": [
+    "wiki/entities/OpenCode Plan Manager.md",
+    "wiki/entities/Ar9av-obsidian-wiki.md",
+    "wiki/index.md",
+    "wiki/hot.md",
+    "wiki/sources/dual-llm-game-build-source.md",
+    "wiki/concepts/AI Game Dev Pipeline.md",
+    "wiki/concepts/planner executor workflow pattern.md",
     "wiki/questions/Research: opencode-game-studio and claude-obsidian.md",
-    "wiki/concepts/Compounding Knowledge.md",
-    "wiki/concepts/cherry-picks.md",
-    "wiki/entities/kepano-obsidian-skills.md",
+    "Planner-Executor Workflow Pattern.md",
+    "wiki/concepts/Planner-Executor Workflow Pattern.md",
     "wiki/concepts/Agent Skills Ecosystem.md",
+    "wiki/concepts/cherry-picks.md",
+    "wiki/concepts/Persistent Wiki Artifact.md",
+    "wiki/entities/Claudian-YishenTu.md",
+    "wiki/sources/claude-obsidian-ecosystem-research.md",
+    "wiki/concepts/Source-First Synthesis.md",
+    "wiki/concepts/OpenCode Game Studios.md",
+    "wiki/concepts/Compounding Knowledge.md",
+    "wiki/entities/kepano-obsidian-skills.md",
     "wiki/questions/Research: game development with opencode.md",
     "wiki/questions/Research: ChatGPT as planner OpenCode as executor.md",
     "wiki/questions/How does the LLM Wiki pattern work.md",
@@ -205,22 +220,8 @@
     "wiki/concepts/opencode-game-studio and claude-obsidian.md",
     "CLAUDE.md",
     "AGENTS.md",
-    "wiki/folds/fold-k3-from-2026-04-23-to-2026-04-24-n8.md",
-    "wiki/comparisons/claude-obsidian-ecosystem.md",
-    "wiki/comparisons/Wiki vs RAG.md",
     "wiki/canvases/claude-obsidian-presentation.canvas",
-    "hooks/README.md",
     "wiki/Wiki Map.canvas",
-    "wiki/log.md",
-    "wiki/sources/local-ai-game-build-source.md",
-    "wiki/concepts/AI Game Dev Pipeline.md",
-    "wiki/entities/OpenCode Plan Manager.md",
-    "wiki/concepts/planner executor workflow pattern.md",
-    "wiki/sources/dual-llm-game-build-source.md",
-    "wiki/sources/planning-execution-separation-source.md",
-    "WIKI.md",
-    "wiki/entities/OpenCode.md",
-    "wiki/concepts/OpenCode Game Studios.md",
     "wiki/canvases/welcome.canvas",
     "wiki/canvases/main.canvas",
     "wiki/canvases/youtube-explainer.canvas",

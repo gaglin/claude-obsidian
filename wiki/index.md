@@ -46,7 +46,7 @@ Navigation: [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[Wiki Map]] | [[
 - [[Query-Time Retrieval]]: wiki query path synthesizes with citations; complementary to Obsidian's in-vault search (status: developing)
 - [[OpenCode Game Studios]] — studio-in-a-config pattern: 54 specialized agents, 37 workflow skills, 100% free on Big Pickle (status: developing)
 - [[AI Game Dev Pipeline]] — structured approach to building games with AI coding agents: phases, quality gates, role-based delegation (status: developing)
-- [[Planner-Executor Workflow Pattern]] — multi-model pattern: ChatGPT/Opus plans, OpenCode/Sonnet executes, independent reviewer gates (status: developing)
+- [[wiki/concepts/planner executor workflow pattern|Planner-Executor Workflow Pattern]] — multi-model pattern: ChatGPT/Opus plans, OpenCode/Sonnet executes, independent reviewer gates (status: developing)
 - [[Agent Skills Ecosystem]] — cross-platform Agent Skills standard that makes OCGS and claude-obsidian interoperable; shared spec from kepano/obsidian-skills (36K+ stars) (status: developing)
 ---
 

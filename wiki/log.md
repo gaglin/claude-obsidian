@@ -38,7 +38,7 @@ Parse recent entries: `grep "^## \[" wiki/log.md | head -10`
 ## [2026-06-22] autoresearch | ChatGPT as planner OpenCode as executor
 - Rounds: 2
 - Sources found: 7
-- Pages created: [[Planner-Executor Workflow Pattern]], [[OpenCode Plan Manager]], [[planning-execution-separation-source]], [[dual-llm-game-build-source]]
+- Pages created: [[wiki/concepts/planner executor workflow pattern|Planner-Executor Workflow Pattern]], [[OpenCode Plan Manager]], [[planning-execution-separation-source]], [[dual-llm-game-build-source]]
 - Pages updated: [[AI Game Dev Pipeline]], [[index]]
 - Synthesis: [[Research: ChatGPT as planner OpenCode as executor]]
 - Key finding: A mature multi-model pattern exists — ChatGPT/Opus/GPT-5.5 plans (GDD, architecture, specs), OpenCode Build agent/Sonnet executes, independent reviewer gates quality. OCGS already implements tiered model assignment per this pattern. Cost reduced ~5x by routing reasoning tokens to planning only.

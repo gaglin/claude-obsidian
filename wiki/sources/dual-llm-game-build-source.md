@@ -14,7 +14,7 @@ key_claims:
   - Cross-model disagreement signaled real bugs 70% of the time
   - AI compressed typing time, not decision time; calendar was ~4 weeks part-time
 related:
-  - "[[Planner-Executor Workflow Pattern]]"
+  - "[[wiki/concepts/planner executor workflow pattern|Planner-Executor Workflow Pattern]]"
   - "[[AI Game Dev Pipeline]]"
   - "[[OpenCode]]"
 ---
