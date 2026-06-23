@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/sources/opencode-game-studios-source.md",
+                "file": "wiki/concepts/OpenCode Game Studios.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "opencode-game-studios-source"
+              "title": "OpenCode Game Studios"
             }
           }
         ]
@@ -191,12 +191,18 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "a31de1b302cdc5cf",
+  "active": "5565f1231fe95c42",
   "lastOpenFiles": [
+    "wiki/questions/Research: opencode-game-studio and claude-obsidian.md",
+    "wiki/concepts/Compounding Knowledge.md",
+    "wiki/concepts/cherry-picks.md",
+    "wiki/entities/kepano-obsidian-skills.md",
     "wiki/concepts/Agent Skills Ecosystem.md",
-    "wiki/concepts/opencode-game-studio and claude-obsidian.md",
     "wiki/questions/Research: game development with opencode.md",
     "wiki/questions/Research: ChatGPT as planner OpenCode as executor.md",
+    "wiki/questions/How does the LLM Wiki pattern work.md",
+    "wiki/sources/opencode-game-studios-source.md",
+    "wiki/concepts/opencode-game-studio and claude-obsidian.md",
     "CLAUDE.md",
     "AGENTS.md",
     "wiki/folds/fold-k3-from-2026-04-23-to-2026-04-24-n8.md",
@@ -217,13 +223,7 @@
     "wiki/concepts/OpenCode Game Studios.md",
     "wiki/canvases/welcome.canvas",
     "wiki/canvases/main.canvas",
-    "wiki/overview.md",
-    "wiki/hot.md",
-    "wiki/references/methodology-modes.md",
     "wiki/canvases/youtube-explainer.canvas",
-    "wiki/sources/_index.md",
-    "wiki/sources/opencode-official-docs-source.md",
-    "wiki/sources/opencode-game-studios-striderZA-source.md",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "Untitled.base",

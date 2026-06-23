@@ -18,6 +18,8 @@ related:
   - "[[Agent Skills Ecosystem]]"
   - "[[claude-obsidian-ecosystem]]"
   - "[[OpenCode Plan Manager]]"
+  - "[[Research: game development with opencode]]"
+  - "[[Research: ChatGPT as planner OpenCode as executor]]"
 sources:
   - "[[opencode-game-studios-source]]"
   - "[[opencode-game-studios-striderZA-source]]"

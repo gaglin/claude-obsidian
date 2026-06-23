@@ -15,7 +15,7 @@ related:
   - "[[OpenCode]]"
   - "[[kepano-obsidian-skills]]"
   - "[[claude-obsidian-ecosystem]]"
-  - "[[opencode-game-studio and claude-obsidian]]"
+  - "[[Research: opencode-game-studio and claude-obsidian]]"
 ---
 
 # Agent Skills Ecosystem
