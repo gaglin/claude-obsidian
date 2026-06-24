@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/concepts/planner executor workflow pattern.md",
+                "file": "wiki/sources/Thariq Tips - Agent Skills Guide.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "planner executor workflow pattern"
+              "title": "Thariq Tips - Agent Skills Guide"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Planner-Executor Workflow Pattern",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "wiki/concepts/planner executor workflow pattern.md",
+                "file": "wiki/sources/Thariq Tips - Agent Skills Guide.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for planner executor workflow pattern"
+              "title": "Backlinks for Thariq Tips - Agent Skills Guide"
             }
           },
           {
@@ -194,14 +194,24 @@
   },
   "active": "a31de1b302cdc5cf",
   "lastOpenFiles": [
+    "wiki/questions/Research: opencode-game-studio and claude-obsidian.md",
+    "wiki/meta/skill-audit-2026-06-24.md",
+    "wiki/concepts/Skill Crafting Principles.md",
+    "wiki/concepts/Agent Skill Categories.md",
+    "wiki/entities/Thariq.md",
+    "wiki/sources/Thariq Tips - Agent Skills Guide.md",
+    "skills/autoresearch/SKILL.md",
+    "wiki/folds/fold-k3-from-2026-04-23-to-2026-04-24-n8.md",
+    "wiki/meta/dashboard.base",
+    "wiki/meta/claude-obsidian-gif-cover-16x9.gif",
+    "wiki/meta/2026-04-15-release-report-session.md",
+    "wiki/concepts/planner executor workflow pattern.md",
     "wiki/entities/OpenCode Plan Manager.md",
     "wiki/entities/Ar9av-obsidian-wiki.md",
     "wiki/index.md",
     "wiki/hot.md",
     "wiki/sources/dual-llm-game-build-source.md",
     "wiki/concepts/AI Game Dev Pipeline.md",
-    "wiki/concepts/planner executor workflow pattern.md",
-    "wiki/questions/Research: opencode-game-studio and claude-obsidian.md",
     "Planner-Executor Workflow Pattern.md",
     "wiki/concepts/Planner-Executor Workflow Pattern.md",
     "wiki/concepts/Agent Skills Ecosystem.md",
@@ -212,14 +222,6 @@
     "wiki/concepts/Source-First Synthesis.md",
     "wiki/concepts/OpenCode Game Studios.md",
     "wiki/concepts/Compounding Knowledge.md",
-    "wiki/entities/kepano-obsidian-skills.md",
-    "wiki/questions/Research: game development with opencode.md",
-    "wiki/questions/Research: ChatGPT as planner OpenCode as executor.md",
-    "wiki/questions/How does the LLM Wiki pattern work.md",
-    "wiki/sources/opencode-game-studios-source.md",
-    "wiki/concepts/opencode-game-studio and claude-obsidian.md",
-    "CLAUDE.md",
-    "AGENTS.md",
     "wiki/canvases/claude-obsidian-presentation.canvas",
     "wiki/Wiki Map.canvas",
     "wiki/canvases/welcome.canvas",

@@ -23,7 +23,7 @@ related:
 
 # Wiki Index
 
-Last updated: 2026-06-22 | Total pages: 47 | Sources ingested: 9
+Last updated: 2026-06-24 | Total pages: 52 | Sources ingested: 10
 
 Navigation: [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[Wiki Map]] | [[getting-started]]
 
@@ -48,6 +48,8 @@ Navigation: [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[Wiki Map]] | [[
 - [[AI Game Dev Pipeline]] — structured approach to building games with AI coding agents: phases, quality gates, role-based delegation (status: developing)
 - [[wiki/concepts/planner executor workflow pattern|Planner-Executor Workflow Pattern]] — multi-model pattern: ChatGPT/Opus plans, OpenCode/Sonnet executes, independent reviewer gates (status: developing)
 - [[Agent Skills Ecosystem]] — cross-platform Agent Skills standard that makes OCGS and claude-obsidian interoperable; shared spec from kepano/obsidian-skills (36K+ stars) (status: developing)
+- [[Agent Skill Categories]] — 9-type taxonomy of agent skills: Library & API Ref, Product Verification, Data Fetching, Business Automation, Scaffolding, Quality & Review, CI/CD, Runbooks, Infrastructure Ops (status: current)
+- [[Skill Crafting Principles]] — 9 best practices for writing agent skills: gotchas, progressive disclosure, description-for-model, scripts, on-demand hooks (status: current)
 ---
 
 ## Entities
@@ -62,6 +64,7 @@ Navigation: [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[Wiki Map]] | [[
 - [[Claude SEO]] — Tier 4 Claude Code skill for SEO analysis; 23 skills, 17 agents, 30 scripts at v1.9.0 (status: evergreen)
 - [[OpenCode]] — open source AI coding agent; 160K+ GitHub stars, 7.5M monthly devs; agent-based architecture suited for game dev (status: developing)
 - [[OpenCode Plan Manager]] — OpenCode plugin implementing Planner->Builder pattern with Zod-validated schemas and filesystem Kanban (status: developing)
+- [[Thariq]] — Anthropic employee who published the internal guide on how Claude Code uses skills (status: developing)
 
 ---
 
@@ -76,6 +79,7 @@ Navigation: [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[Wiki Map]] | [[
 - [[planning-execution-separation-source]] — 2026-06-02 | ChatGPT planning + OpenCode execution workflow
 - [[dual-llm-game-build-source]] — 2026-05-22 | ChatGPT draft + Claude review dual-LLM game build
 - [[Research: opencode-game-studio and claude-obsidian]] — 2026-06-23 | synthesis: intersectional research
+- [[Thariq Tips — Agent Skills Guide]] — 2026-06-24 | Anthropic's internal guide on skill categories and best practices | 2 concepts, 1 entity created
 
 ---
 
@@ -97,6 +101,7 @@ Navigation: [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[Wiki Map]] | [[
 
 ## Decisions
 
+- [[skill-audit-2026-06-24]] — mapping of all 15 skills against Thariq's 9-category taxonomy; gaps noted
 - [[2026-04-14-community-cta-rollout]] - Skool community CTA footer added to 6 skill repos with per-tool frequency rules (status: active)
 - [[2026-04-15-slides-and-release-session]] - Claude SEO v1.9.0 slides (15-slide HTML deck) + GitHub release v1.9.0 with PDF asset (status: complete)
 - [[2026-04-15-release-report-session]] - Claude SEO v1.9.0 Release Report PDF: dark theme, 13 pages, WeasyPrint layout fixes, Challenge v2 added (status: complete)

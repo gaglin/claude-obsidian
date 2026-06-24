@@ -25,6 +25,20 @@ Parse recent entries: `grep "^## \[" wiki/log.md | head -10`
 
 ---
 
+## [2026-06-24] audit | Skills vs Thariq's 9 Categories
+- Report: [[skill-audit-2026-06-24]]
+- Skills audited: 15
+- Gaps found: 2 (Product Verification, CI/CD & Deployment)
+- Descriptions updated: 1 (wiki-mode — trimmed compass artifact reference per Tip 6)
+- Key finding: All descriptions already follow Thariq Tip 6 (trigger patterns embedded in "Triggers on:" sections)
+
+## [2026-06-24] ingest | Thariq Tips — Agent Skills Guide
+- Source: `.raw/articles/claude-thariq-tips-17-mar-26-2026-06-24.md`
+- Summary: [[Thariq Tips — Agent Skills Guide]]
+- Pages created: [[Agent Skill Categories]], [[Skill Crafting Principles]], [[Thariq]]
+- Pages updated: [[index]]
+- Key insight: Thariq's 9-category taxonomy and 9 crafting principles from Anthropic's internal skill usage, directly applicable to auditing this vault's skills.
+
 ## [2026-06-23] autoresearch | opencode-game-studio and claude-obsidian
 - Rounds: 2
 - Sources found: 3 (plus 4 existing)
