@@ -25,6 +25,13 @@ Parse recent entries: `grep "^## \[" wiki/log.md | head -10`
 
 ---
 
+## [2026-07-16] ingest | Development Workflow Pattern
+- Source: User's workflow note (Chinese text)
+- Summary: [[Development Workflow Pattern]]
+- Pages created: [[Multi-Model Development Workflow]], [[Session Handoff Protocol]], [[Graphify]], [[Opus 4.8]]
+- Pages updated: [[index]], [[hot]]
+- Key insight: Multi-model workflow that assigns Opus 4.8 to planning (brainstorming, writing-plans, systematic-debugging) and cheaper models to implementation, with HANDOFF.md + MEMORY.md for session persistence to reduce fix-A-break-B risk.
+
 ## [2026-06-24] audit | Skills vs Thariq's 9 Categories
 - Report: [[skill-audit-2026-06-24]]
 - Skills audited: 15

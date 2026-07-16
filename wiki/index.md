@@ -23,7 +23,7 @@ related:
 
 # Wiki Index
 
-Last updated: 2026-06-24 | Total pages: 52 | Sources ingested: 10
+Last updated: 2026-07-16 | Total pages: 57 | Sources ingested: 11
 
 Navigation: [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[Wiki Map]] | [[getting-started]]
 
@@ -50,6 +50,8 @@ Navigation: [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[Wiki Map]] | [[
 - [[Agent Skills Ecosystem]] — cross-platform Agent Skills standard that makes OCGS and claude-obsidian interoperable; shared spec from kepano/obsidian-skills (36K+ stars) (status: developing)
 - [[Agent Skill Categories]] — 9-type taxonomy of agent skills: Library & API Ref, Product Verification, Data Fetching, Business Automation, Scaffolding, Quality & Review, CI/CD, Runbooks, Infrastructure Ops (status: current)
 - [[Skill Crafting Principles]] — 9 best practices for writing agent skills: gotchas, progressive disclosure, description-for-model, scripts, on-demand hooks (status: current)
+- [[Multi-Model Development Workflow]] — Opus for planning, cheaper models for execution; brainstorming + writing-plans + adversarial-verify (status: developing)
+- [[Session Handoff Protocol]] — HANDOFF.md + MEMORY.md preserve context across sessions; prevent fix-A-break-B (status: developing)
 ---
 
 ## Entities
@@ -65,6 +67,8 @@ Navigation: [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[Wiki Map]] | [[
 - [[OpenCode]] — open source AI coding agent; 160K+ GitHub stars, 7.5M monthly devs; agent-based architecture suited for game dev (status: developing)
 - [[OpenCode Plan Manager]] — OpenCode plugin implementing Planner->Builder pattern with Zod-validated schemas and filesystem Kanban (status: developing)
 - [[Thariq]] — Anthropic employee who published the internal guide on how Claude Code uses skills (status: developing)
+- [[Graphify]] — architecture visualization tool; maps function relationships and tool invocations (status: developing)
+- [[Opus 4.8]] — Anthropic reasoning model; assigned to planning and diagnosis tasks (status: developing)
 
 ---
 
@@ -80,6 +84,7 @@ Navigation: [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[Wiki Map]] | [[
 - [[dual-llm-game-build-source]] — 2026-05-22 | ChatGPT draft + Claude review dual-LLM game build
 - [[Research: opencode-game-studio and claude-obsidian]] — 2026-06-23 | synthesis: intersectional research
 - [[Thariq Tips — Agent Skills Guide]] — 2026-06-24 | Anthropic's internal guide on skill categories and best practices | 2 concepts, 1 entity created
+- [[Development Workflow Pattern]] — 2026-07-16 | Multi-model dev workflow: Graphify → Opus planning → cheap execution → handoff files | 3 concepts, 2 entities created
 
 ---
 

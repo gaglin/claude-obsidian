@@ -17,6 +17,22 @@
         "wiki/hot.md",
         "wiki/log.md"
       ]
+    },
+    "inline-user-workflow-2026-07-16": {
+      "hash": "inline-note",
+      "ingested_at": "2026-07-16",
+      "pages_created": [
+        "wiki/sources/Development-Workflow-Pattern.md",
+        "wiki/concepts/Multi-Model Development Workflow.md",
+        "wiki/concepts/Session Handoff Protocol.md",
+        "wiki/entities/Graphify.md",
+        "wiki/entities/Opus 4.8.md"
+      ],
+      "pages_updated": [
+        "wiki/index.md",
+        "wiki/hot.md",
+        "wiki/log.md"
+      ]
     }
   },
   "address_map": {

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/sources/opencode-game-studios-source.md",
-                "mode": "source",
-                "source": false
+                "file": "wiki/sources/Development Workflow Pattern.md",
+                "mode": "preview",
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "opencode-game-studios-source"
+              "title": "Development Workflow Pattern"
             }
           }
         ]
@@ -194,11 +194,14 @@
   },
   "active": "a31de1b302cdc5cf",
   "lastOpenFiles": [
+    "wiki/concepts/Multi-Model Development Workflow.md",
+    "Development Workflow Pattern.md",
+    "wiki/sources/Development Workflow Pattern.md",
+    "wiki/concepts/Compounding Knowledge.md",
+    "wiki/concepts/Session Handoff Protocol.md",
+    "wiki/sources/opencode-game-studios-source.md",
     "wiki/entities/Opus 4.8.md",
     "wiki/entities/Graphify.md",
-    "wiki/concepts/Session Handoff Protocol.md",
-    "wiki/concepts/Multi-Model Development Workflow.md",
-    "wiki/sources/Development-Workflow-Pattern.md",
     "wiki/questions/Research: opencode-game-studio and claude-obsidian.md",
     "wiki/concepts/OpenCode Game Studios.md",
     "skills/autoresearch/SKILL.md",
@@ -219,9 +222,6 @@
     "wiki/hot.md",
     "wiki/sources/dual-llm-game-build-source.md",
     "wiki/concepts/AI Game Dev Pipeline.md",
-    "Planner-Executor Workflow Pattern.md",
-    "wiki/concepts/Planner-Executor Workflow Pattern.md",
-    "wiki/concepts/Agent Skills Ecosystem.md",
     "wiki/canvases/claude-obsidian-presentation.canvas",
     "wiki/Wiki Map.canvas",
     "wiki/canvases/welcome.canvas",
